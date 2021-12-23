@@ -1,0 +1,38 @@
+body{
+    background-color: #313131;
+}
+
+button{
+    border-radius: 8px;
+    background-color: coral;
+    color: #313131;
+    text-indent: 1px;
+    width: 180px;
+    height: 50px;
+    text-align: center;
+    font-size: large;
+}
+
+.main{
+    width: 60%;
+    position: fixed;
+
+}
+
+.header1{
+    color: red;
+    
+}
+
+#header2{
+    color:coral;
+}
+
+#header3{
+    color: cyan;
+}
+
+.paragraph{
+    color:whitesmoke;
+    background-color: black;
+}
